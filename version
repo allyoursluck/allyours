@@ -1,5 +1,7 @@
 {
-  "versionCode": 3,
+  "versionCode": 1,
   "versionName": "1.0.1",
-  "url": "https://allyoursluck.com/download"
+  "url": "https://allyoursluck.com/download",
+  "title":"Update title",
+  "content":"New Version : v1.0.1"
 }
