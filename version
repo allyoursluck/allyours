@@ -3,5 +3,7 @@
   "versionName": "1.0.1",
   "url": "https://allyoursluck.com/download",
   "title":"Update title",
+  "ipaUrl":"https://allyoursluck.com/packageios/AllYours.ipa",
+  "ipaPlistUrl":"itms-services://?action=download-manifest&url=https://allyoursluck.com/packageios/manifest.plist",
   "content":"New Version : v1.0.1"
 }
