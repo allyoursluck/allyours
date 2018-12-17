@@ -2,6 +2,7 @@
     "versionCode": 1,
     "versionName": "1.0.1",
     "url": "https://allyoursluck.com/download",
+    "apk_url":"https://raw.githubusercontent.com/allyoursluck/allyours/master/app-release.apk",
     "title": "Update title",
     "ipaPlistUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/allyoursluck/allyours/master/manifest.plist",
     "content": "New Version : v1.0.1"
