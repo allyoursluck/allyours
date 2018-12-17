@@ -3,6 +3,6 @@
     "versionName": "1.0.1",
     "url": "https://allyoursluck.com/download",
     "title": "Update title",
-    "ipaPlistUrl": "itms-services://?action=download-manifest&url=https://download.allyoursluck.com/manifest.plist",
+    "ipaPlistUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/allyoursluck/allyours/master/manifest.plist",
     "content": "New Version : v1.0.1"
 }
